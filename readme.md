@@ -1,3 +1,6 @@
+Forked from https://github.com/Keychron/qmk_firmware
+(But I could not create another `qmk_firmware` fork.)
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
